@@ -1,0 +1,6 @@
+{
+  "name": "Feira da Lua - Controle Cósmico",
+  "description": "Sistema de gestão e controle financeiro em tempo real para feirantes, barracas e administração da Feira da Lua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
